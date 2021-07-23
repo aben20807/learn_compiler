@@ -1,0 +1,12 @@
+*.zip
+*.yy.c
+*.swp
+y.*
+*.j
+*.class
+*.log
+myscanner
+myparser
+mycompiler
+.DS_Store
+tmp/

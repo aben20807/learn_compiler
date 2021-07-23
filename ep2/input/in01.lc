@@ -1,0 +1,4 @@
+decl x = 1 + 4
+decl y = 2
+decl num = x + y * (3 + 5)
+print num
