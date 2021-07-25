@@ -10,3 +10,4 @@ myparser
 mycompiler
 .DS_Store
 tmp/
+*.Identifier
